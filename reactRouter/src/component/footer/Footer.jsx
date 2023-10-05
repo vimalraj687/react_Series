@@ -79,7 +79,7 @@ const Footer = () => {
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-gray-500 sm:text-center">
               © 2023
-              <a href="#" className="hover:underline">
+              <a href="#cd" className="hover:underline">
                 vimalraj
               </a>
               . All Rights Reserved.
